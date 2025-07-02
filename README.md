@@ -1,2 +1,8 @@
-# TutorHub-FrontEnd
-The Home Tutor Finder is a full-stack web app using React, Spring Boot, and MySQL that connects students with tutors based on subject, location, and experience. It features secure login with CAPTCHA, profile management, session scheduling, and payment gateway integration for smooth and secure tutor booking.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
